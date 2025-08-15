@@ -172,14 +172,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **LLM Accuracy**: 90%+ for structured text extraction
 - **Semantic Matching**: 85%+ relevance scoring with transformer embeddings
 - **Supported File Size**: Up to 10MB per document
-- **Memory Usage**: ~500MB with transformer models loaded
 - **API Fallback**: 100% uptime with regex backup system
 
 ## 🔮 Future AI Enhancements
 
 - [ ] **Fine-tuned Models**: Custom resume-specific LLM training
-- [ ] **Multi-Language Support**: Extend AI models to support multiple languages
-- [ ] **Advanced NER**: Named Entity Recognition for better skill extraction
 - [ ] **Batch AI Processing**: Parallel processing for multiple resumes
 - [ ] **Custom Embedding Models**: Domain-specific transformer training
 - [ ] **LLM-Generated Summaries**: AI-written candidate analysis reports
@@ -205,11 +202,7 @@ If you encounter any problems or have questions:
 - Check the troubleshooting section above
 - Review the deployment logs on Streamlit Cloud
 
-📝 Development History Note
+📝 Development History
 ⚠️ Note: Due to a git force push error, the previous commit history (13 commits spanning several days of development) was accidentally deleted. The current repository reflects the final working state of the application, but the incremental development process is no longer visible in the git history.
 
 ⭐ **Star this repository if you found it helpful!**
-
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/streamlit-latest-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
