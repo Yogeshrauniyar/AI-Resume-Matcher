@@ -6,8 +6,8 @@ except ImportError:
     PLOTLY_AVAILABLE = False
     st.warning("📊 Plotly not installed. Radar chart will be skipped. Run: pip install plotly")
 
-from modules.matching import match_resume_to_jd
-from modules.resume_parser import extract_text
+from matching import match_resume_to_jd
+from resume_parser import extract_text
 
 st.set_page_config(page_title="Recruitly - AI Resume Matcher", layout="wide")
 
