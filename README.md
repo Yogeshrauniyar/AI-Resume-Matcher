@@ -205,6 +205,8 @@ If you encounter any problems or have questions:
 - Check the troubleshooting section above
 - Review the deployment logs on Streamlit Cloud
 
+📝 Development History Note
+⚠️ Note: Due to a git force push error, the previous commit history (13 commits spanning several days of development) was accidentally deleted. The current repository reflects the final working state of the application, but the incremental development process is no longer visible in the git history.
 
 ⭐ **Star this repository if you found it helpful!**
 
