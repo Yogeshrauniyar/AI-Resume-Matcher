@@ -2,6 +2,11 @@
 
 An intelligent AI resume matching application built with Streamlit that leverages Large Language Models (LLMs) and advanced NLP to match resumes with job descriptions. Uses Hugging Face's Flan-T5-Large for intelligent text extraction and Sentence Transformers for semantic similarity scoring.
 
+## 📸 Screenshots
+
+![Recruitly Dashboard](assets/images/Recruitly1.png)
+![Resume Analysis Example](assets/images/Recruitly2.png)
+
 ## ✨ Features
 
 - **📄 Multi-format Support**: Upload PDF and DOCX resumes
