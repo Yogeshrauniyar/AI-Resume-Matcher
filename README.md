@@ -4,8 +4,8 @@ An intelligent AI resume matching application built with Streamlit that leverage
 
 ## 📸 Screenshots
 
-![Recruitly Dashboard](assets/images/Recruitly1.png)
-![Resume Analysis Example](assets/images/Recruitly2.png)
+![Dashboard](assets/images/Recruitly1.png)
+![Results](assets/images/Recruitly2.png)
 
 ## ✨ Features
 
