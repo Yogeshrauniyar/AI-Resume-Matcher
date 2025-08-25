@@ -190,8 +190,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👨‍💻 Author
 
 **Yogesh Rauniyar**
-- GitHub: [@Yogeshrauniyar](https://github.com/Yogeshrauniyar)
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/Yogeshrauniyar)
+- [GitHub](https://github.com/Yogeshrauniyar)
+- [LinkedIn](https://linkedin.com/in/Yogeshrauniyar)
 
 ## 🙏 Acknowledgments
 
